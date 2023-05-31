@@ -13,3 +13,4 @@ do b(7) = 0 , then load data , then do b(7) = 1.
 
 8 - 14 logical
 15 - buffer
+![alu](https://github.com/Kanchan1396/FPGA-implementation-of-8-bit-ALU-using-VHDL/assets/76846245/101895a2-d44e-4959-abca-df85945d1ef4)
