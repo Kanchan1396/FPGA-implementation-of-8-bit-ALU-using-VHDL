@@ -1,6 +1,6 @@
 # FPGA-implementation-of-8-bit-ALU-using-VHDL
 
-#Program manual
+Program manual
 
 0 - addition
 1 - subtraction
